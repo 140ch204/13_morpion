@@ -2,11 +2,11 @@
 
   1. <h2>Installation et execution : </h2>
 
-  > git clone https://github.com/140ch204/13_morpion.git
+  $ git clone https://github.com/140ch204/13_morpion.git
   >
-  > cd 13_morpion
+  >$ cd 13_morpion
   >
-  > ruby app.rb
+  >$ ruby app.rb
   >
 
   2. Le jeu : 
@@ -19,15 +19,10 @@
   >
   >           ┌───┬───┬───┐
   >         A │ O │ O │   │          O : Julien
-  >
   >           ├───┼───┼───┤
-  >
   >         B │ X │ X │   │          X : Kevin
-  >
   >           ├───┼───┼───┤
-  >
   >         C │   │   │   │
-  >
   >           └───┴───┴───┘
   >
 
