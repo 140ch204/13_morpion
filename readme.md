@@ -1,15 +1,15 @@
 <h1> Fichier Readme du Projet 13_morpion </h1>
 
-  1. <h2>Installation et execution : </h2>
+  <h2> 1. Installation et execution : </h2>
 
-  $ git clone https://github.com/140ch204/13_morpion.git
+  >$ git clone https://github.com/140ch204/13_morpion.git
   >
   >$ cd 13_morpion
   >
   >$ ruby app.rb
   >
 
-  2. Le jeu : 
+  <h2> 2. Le jeu : </h2>
 
     Ce jeu se joue à 2 joueurs : 
     
@@ -26,6 +26,5 @@
   >           └───┴───┴───┘
   >
 
-
-  3. 
+<h1> Amusez vous bien ! </h1>
 
